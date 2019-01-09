@@ -1,10 +1,3 @@
-/**
- * Two examples of methods for determining whether an int is prime. 
- * You will be asked questions about this code on the loops test.
- * 
- * @author Jon Cooper
- * @version November 18, 2013
- */
 public class Primes 
 {
     /**
